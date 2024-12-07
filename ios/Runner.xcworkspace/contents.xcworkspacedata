@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "absolute:Volumes/E/Emorfili/Production/user_app_and_web/ios/Runner.xcworkspace">
+   </FileRef>
+   <FileRef
+      location = "absolute:Pods/Pods.xcodeproj"
+      assignedFileDataType = "com.apple.xcode.pbfilespec-property-list">
+   </FileRef>
+</Workspace>

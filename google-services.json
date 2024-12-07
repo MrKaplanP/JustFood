@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969076753609",
+    "project_id": "justfood-f9f0c",
+    "storage_bucket": "justfood-f9f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969076753609:android:46ac4b25527ebe98163918",
+        "android_client_info": {
+          "package_name": "com.jdi.justfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9a60vgodNZdg3NSgxJ-ziDR7qsamf9q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
